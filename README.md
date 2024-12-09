@@ -21,6 +21,14 @@
     </a>
     </span>
 </div>
+<div align="center">
+    <span>
+        <img src ="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
+    </span>
+    <span>
+        <img src ="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=#A8B9CC"/>
+    </span>
+</div>
 <br><br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true&theme=rose&rank_icon=github">
