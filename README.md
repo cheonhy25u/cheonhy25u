@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&text=Hy25u&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&animation=twinkling){:width="100%"}
+
 ## Hi there 👋
 
 ✨ Hyesu ✨
