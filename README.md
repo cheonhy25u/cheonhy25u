@@ -9,16 +9,16 @@
 <br>
 <br>
 <div align="center">
-  <span>
+
     <a href="https://www.instagram.com/sudo_hyesu/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=#FF0069"/>
     </a>
-  </span>
-  <span>
+
+
     <a href="https://hy25u.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=#FF0069"/>
     </a>
-  </span>
+
 </div>
 <br><br>
 <div align="center">
