@@ -5,4 +5,4 @@
 - RISC-V security application implementation
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true&theme=dracula)
-<img src="https://github.com/cheonhy25u/cheonhy25u/blob/output/github-snake-dark.svg" width="100%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
