@@ -8,5 +8,5 @@
 <br>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true&theme=vue&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true&theme=rose&rank_icon=github">
 </div>
