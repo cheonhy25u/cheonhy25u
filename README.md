@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&animation=twinkling" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DFCCD6&animation=twinkling" width=100%>
 
 ## Hi there 👋
 
