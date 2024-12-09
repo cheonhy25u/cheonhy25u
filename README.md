@@ -4,4 +4,4 @@
 - reversing 
 - RISC-V security application implementation
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true">
