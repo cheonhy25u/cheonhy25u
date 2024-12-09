@@ -5,10 +5,19 @@
 :sparkles: reversing  <br>
 :speech_balloon: RISC-V security application implementation
 </div>
+
 <br>
 <br>
 <div align="center">
+  <span>
+  <a href="https://www.instagram.com/sudohyesu/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=#FF0069"/>
+  </a>
+</span>
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cheonhy25u&show_icons=true&theme=rose&rank_icon=github">
 </div>
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA49A&section=footer" width=100%>
