@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&animation=twinkling){:width="100%"}
+![header](https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&animation=twinkling)
 
 ## Hi there 👋
 
