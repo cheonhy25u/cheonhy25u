@@ -22,6 +22,9 @@
     </span>
 </div>
 <div align="center">
+    SKILLS
+</div>
+<div align="center">
     <span>
         <img src ="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#3776AB"/>
     </span>
