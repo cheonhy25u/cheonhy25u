@@ -5,8 +5,8 @@
 - RISC-V security application implementation
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cheonhy25u" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cheonhy25u&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheonhy25u&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cheonhy25u&repo=convoychat" />
 </a>
