@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DFCCD6&animation=twinkling" width=100%>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&text=Hy25u&stroke=00ff00&animation=twinkling&fontSize=20" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&text=Hy25u&stroke=000000&animation=twinkling&fontSize=20" width=100%>
 
 ## Hi there 👋
 
