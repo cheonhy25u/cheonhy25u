@@ -3,8 +3,8 @@
 색 조합 #C7EFCF #EEF5DB #2D2D2A #4C4C47 #DAA49A https://coolors.co/?ref=63d3a1aef2fe03000ababc29 -->
 
 <div align="center">
-:sparkles: reversing  <br>
-:speech_balloon: RISC-V security application implementation
+:sparkles: web, system hacking <br>
+:speech_balloon: personal information protection
 </div>
 
 <br>
